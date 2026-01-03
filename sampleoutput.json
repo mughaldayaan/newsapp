@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Ashes fourth Test: Australia and England player ratings",
+            "description": "Chief cricket reporter Stephan Shemilt marks the performances of the Australia and England teams after the fourth Test in Melbourne.",
+            "url": "http://www.bbc.co.uk/sport/cricket/articles/ceq1450jd1go",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f68c/live/8330c270-e2ee-11f0-a8dc-93c15fe68710.jpg",
+            "publishedAt": "2025-12-27T07:07:24.5287659Z",
+            "content": "Ben Duckett 6 Surely would have been glad to be back on the field after a difficult time off it. Another across-the-line dismissal in the first innings, but got England going in the second.\r\nZak Craw… [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Dean Bilton",
+            "title": "Australia belted, England vindicated and Test cricket wounded in MCG Ashes Test farce",
+            "description": "As England deservedly celebrates a long-awaited Test win in Australia, everyone else involved counts the cost of a farcical and damaging two-day disaster at the MCG.",
+            "url": "https://www.abc.net.au/news/2025-12-27/australia-belted-england-vindicated-test-cricket-wounded-mcg/106181362",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5aa3b75c212e4c4505cce9ce133751b2?impolicy=wcms_watermark_news&cropH=2764&cropW=4914&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2025-12-27T06:58:43Z",
+            "content": "So this is how Test cricket dies. Not with a whimper, but with a rapid-fire series of grotesque bangs.\r\nEngland has won the Boxing Day Test by four wickets, and it deserved to. It should celebrate it… [+6873 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "James Dampney",
+            "title": "Cricket world savages latest two-day farce",
+            "description": "The MCG pitch and the overall state of Test cricket are both facing fierce examinations after another two-day Ashes match concluded with a breakthrough England win on Saturday.",
+            "url": "https://www.news.com.au/sport/cricket/cricket-world-turns-on-the-mcgs-twoday-boxing-day-farce/news-story/1b3840550ca513a24f0263daeee339c1",
+            "urlToImage": "https://content.api.news/v3/images/bin/7871b4ac9e2e147d0ce883070ead6851",
+            "publishedAt": "2025-12-27T06:30:00Z",
+            "content": "The MCG pitch and the overall state of Test cricket are both facing fierce examinations after another two-day Ashes match concluded with a breakthrough England win on Saturday.\r\nThe tourists finally … [+5652 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Andy Murray",
+            "title": "How to watch Australia vs England: live stream Boxing Day 4th Ashes Test for *FREE* from anywhere in the world, Australia lead by 46 runs after 20 wickets fall on Day 1",
+            "description": "All the ways to watch the 4th Ashes Test at the MCG, the famous Boxing Day Test, from anywhere as Australia and England battle in cricket’s historic series.",
+            "url": "https://www.techradar.com/how-to-watch/cricket/australia-vs-england-boxing-day-4th-ashes-test-free",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fXRtLSbcNLditYtAh6Rf7D-1024-80.jpg",
+            "publishedAt": "2025-12-25T21:00:00Z",
+            "content": "<ul><li>Live stream The Ashes 4th Test for *FREE* on 7Plus</li><li>Unblock your stream with NordVPN (70% OFF)</li><li>Boxing Day Test: December 26-30, daily start times: 11:30pm GMT (day before) / 10… [+8574 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
